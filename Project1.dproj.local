@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/20 17:52:50.000.937,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/26 19:52:09.000.305,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/05 13:38:14.000.567,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/06 10:19:20.000.938,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/06 10:21:19.000.255,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/01/06 10:27:14.000.306,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Ver_Socios.dfm</Transaction>
+    <Transaction>2017/01/06 10:27:14.000.306,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Ver_Socios.pas</Transaction>
+    <Transaction>2017/01/06 10:27:39.000.731,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.pas=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Anyadir_Socios.pas</Transaction>
+    <Transaction>2017/01/06 10:27:39.000.731,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.dfm=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Anyadir_Socios.dfm</Transaction>
+    <Transaction>2017/01/06 10:27:46.000.225,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Project1.dproj=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Project1.dproj</Transaction>
+    <Transaction>2017/01/06 10:36:51.000.253,=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\Unit3.pas</Transaction>
+    <Transaction>2017/01/06 10:39:52.000.419,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\Unit3.pas=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\ListaSocios.pas</Transaction>
+    <Transaction>2017/01/06 10:39:52.000.419,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\Unit3.dfm=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\ListaSocios.dfm</Transaction>
+    <Transaction>2017/01/06 14:41:33.000.181,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\Ver_Socios.dfm=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Ver_contactos.dfm</Transaction>
+    <Transaction>2017/01/06 14:41:33.000.181,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\Ver_Socios.pas=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Ver_contactos.pas</Transaction>
+    <Transaction>2017/01/06 14:42:04.000.001,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\Anyadir_Socios.pas=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Anyadir_Contactos.pas</Transaction>
+    <Transaction>2017/01/06 14:42:04.000.001,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\Anyadir_Socios.dfm=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\Anyadir_Contactos.dfm</Transaction>
+    <Transaction>2017/01/06 14:42:22.000.118,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\ListaSocios.dfm=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\ListaContactos.dfm</Transaction>
+    <Transaction>2017/01/06 14:42:22.000.118,I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en archivo.dat\ListaSocios.pas=I:\DAM2\Des. interfaces\delfi\EJERCICIO ARCHIVOS\Mi Agenda en Archivo.dat\ListaContactos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
